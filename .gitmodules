@@ -1,3 +1,0 @@
-[submodule "deps/libjuice"]
-	path = deps/libjuice
-	url = https://github.com/paullouisageneau/libjuice
